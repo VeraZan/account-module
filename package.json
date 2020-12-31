@@ -4,6 +4,9 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
+    "serve-clothes": "vue-cli-service serve --mode clothes",
+    "serve-food": "vue-cli-service serve --mode food",
+    "serve-pc": "vue-cli-service serve --mode pc",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
